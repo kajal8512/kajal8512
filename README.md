@@ -6,3 +6,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-kajaly20@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
 I am Kajal Yadav 😃. I am from Delhi and currently working in Navgurukul as Backend Developer 👩‍💻. I love to explore and learn about new things.
+
+<img src='https://user-images.githubusercontent.com/82705671/212745896-f065e068-9b3a-4168-96b4-754ccece7d33.png' alter='kajal8512' width="700px" height="300px">
