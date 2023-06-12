@@ -7,4 +7,12 @@
 
 I am Kajal Yadav 😃. I am from Delhi and currently working in Navgurukul as Backend Developer 👩‍💻. I love to explore and learn about new things.
 
-<img src='https://user-images.githubusercontent.com/82705671/212745896-f065e068-9b3a-4168-96b4-754ccece7d33.png' alter='kajal8512' width="700px" height="300px">
+### Coding Profiles
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kajal8512&show_icons=true&theme=tokyonight" width="450" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kajal8512&theme=dark&hide_border=true" style="margin-left: 50px; width: 50%;" width="450" />
+</p>
