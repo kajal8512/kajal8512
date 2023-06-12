@@ -11,8 +11,8 @@ I am Kajal Yadav 😃. I am from Delhi and currently working in Navgurukul as Ba
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kajal8512&show_icons=true&theme=tokyonight" width="450" />
+<div style="text-align: center;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kajal8512&show_icons=true&theme=tokyonight" style="margin: 0 20px;" width="450" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kajal8512&theme=dark&hide_border=true" style="margin-left: 50px; width: 50%;" width="450" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kajal8512&theme=dark&hide_border=true" style="margin: 0 50px; width: 50%;" width="450" />
+</div>
