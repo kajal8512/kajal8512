@@ -1,11 +1,12 @@
 ## Hello, Fellow Coders! 👋
 
-I'm Kajal Yadav, a passionate Backend Developer based in Delhi, currently shaping the digital world at Navgurukul. 💻 I'm all about exploring the endless possibilities of coding and crafting solutions that make a difference.
+I'm Kajal Yadav, a passionate Backend Developer, currently shaping the digital world at Navgurukul. 💻 I'm all about exploring the endless possibilities of coding and crafting solutions that make a difference.
 
-### Get in Touch 📬
+### Let's Connect and Collaborate! 🌟
 
-- Twitter: [@kajaly705](https://twitter.com/Harshkhatri24)
-- Email: [kajaly20@navgurukul.org](mailto:mailharshkhatri@gmail.com)
+- ![Twitter](https://img.shields.io/twitter/follow/kajaly705?style=social)
+- ![Email](https://img.shields.io/badge/-kajaly20%40navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white)
+
 
 ### My Coding Journey 🚀
 
