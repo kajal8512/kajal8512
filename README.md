@@ -1,18 +1,17 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+## Hello, Fellow Coders! 👋
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+I'm Kajal Yadav, a passionate Backend Developer based in Delhi, currently shaping the digital world at Navgurukul. 💻 I'm all about exploring the endless possibilities of coding and crafting solutions that make a difference.
 
-[![Twitter Badge](https://img.shields.io/badge/-@kajaly705-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) 
-[![Gmail Badge](https://img.shields.io/badge/-kajaly20@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
+### Get in Touch 📬
 
-I am Kajal Yadav 😃. I am from Delhi and currently working in Navgurukul as Backend Developer 👩‍💻. I love to explore and learn about new things.
+- Twitter: [@kajaly705](https://twitter.com/Harshkhatri24)
+- Email: [kajaly20@navgurukul.org](mailto:mailharshkhatri@gmail.com)
 
-### Coding Profiles
+### My Coding Journey 🚀
 
-<br/>
-
-<div style="text-align: center;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kajal8512&show_icons=true&theme=tokyonight" style="margin: 0 20px;" width="450" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kajal8512&theme=dark&hide_border=true" style="margin: 0 50px; width: 50%;" width="450" />
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kajal8512&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kajal8512&theme=dark&hide_border=true" width="400" />
 </div>
+
+Let's collaborate and build something amazing together! Feel free to reach out. 😊
